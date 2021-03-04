@@ -1,0 +1,94 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "9bc686cc-acda-4825-a750-00b3a72ab1a4": {
+        "id": "9bc686cc-acda-4825-a750-00b3a72ab1a4",
+        "parent": null,
+        "name": "sachim4.py",
+        "type": "PYTHON_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "sachim4.py",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 5
+        },
+        "config": {
+          "runtime": "python37",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "triggerType": 0,
+          "name": "sachim4"
+        },
+        "triggers": [
+          {
+            "resourceName": "http-trigger",
+            "config": {}
+          }
+        ],
+        "lastUpdated": 1614829048194
+      },
+      "d4a761f9-aabf-4c16-a6a3-ab42eae6039e": {
+        "id": "d4a761f9-aabf-4c16-a6a3-ab42eae6039e",
+        "parent": null,
+        "name": "index.js",
+        "type": "JS_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": false,
+        "filePath": "index.js"
+      },
+      "2c1f9683-6118-49ad-8ce7-9b128ec43810": {
+        "id": "2c1f9683-6118-49ad-8ce7-9b128ec43810",
+        "parent": null,
+        "name": "main.py",
+        "type": "PYTHON_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": false,
+        "filePath": "main.py"
+      }
+    },
+    "openFiles": [
+      "9bc686cc-acda-4825-a750-00b3a72ab1a4"
+    ],
+    "currentFileId": "9bc686cc-acda-4825-a750-00b3a72ab1a4",
+    "resources": {
+      "http-trigger": {
+        "name": "http-trigger",
+        "type": "http-trigger",
+        "config": {}
+      }
+    },
+    "customTemplate": {
+      "syntax": "JSON",
+      "overrideDefault": false,
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "sigmaVersion": "1.7.0",
+    "projectName": "sachim4",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east1",
+    "platform": "GCP",
+    "language": "python",
+    "platformRegions": {},
+    "lastSave": 1614829122244
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "sachim4",
+      "url": "https://github.com/Indunil1992/sachim4"
+    }
+  }
+}
